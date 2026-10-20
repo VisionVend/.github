@@ -7,8 +7,8 @@ secure, cashier-less vending machine.
 
 - **Cashier-less retrofit kit** — cameras, compute, and locking that drop into
   standard display fridges. No new cooler required.
-- **SKU onboarding pipeline** — iPhone 3D capture (photogrammetry, turntable,
-  TrueDepth, RoomPlan) feeds the product-recognition models.
+- **SKU onboarding pipeline** — iPhone turntable capture (video + `yaw.jsonl`
+  manifest) feeds the product-recognition models.
 - **Synthetic data & simulation** — Isaac Sim digital twin generates training
   data and person-ReID trajectories before real-world deployment.
 
