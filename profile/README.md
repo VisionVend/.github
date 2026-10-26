@@ -16,8 +16,7 @@ secure, cashier-less vending machine.
 
 ## Repositories
 
-Table verified against the org repo list on 2026-10-26. Archived repos are
-marked ARCHIVED; do not build on them.
+Table verified against the org repo list on 2026-10-26.
 
 | Repo | What it is |
 |---|---|
@@ -28,13 +27,13 @@ marked ARCHIVED; do not build on them.
 | [visionvend-sim](https://github.com/VisionVend/visionvend-sim) | Isaac Sim digital twin: synthetic data + policy trajectories |
 | [isaac-reid-pipeline](https://github.com/VisionVend/isaac-reid-pipeline) | Synthetic-retail person ReID: YOLO → ByteTrack → TransReID + FAISS |
 | [retail-786k-trainer](https://github.com/VisionVend/retail-786k-trainer) | Retail-786k dataset + baseline training console |
-| [visionvend-cam](https://github.com/VisionVend/visionvend-cam) | ARCHIVED — camera firmware for XIAO ESP32-S3 Sense (archived 2026-10-21; see its repo for the disposition note — no live successor has been confirmed) |
+| [visionvend-cam](https://github.com/VisionVend/visionvend-cam) | Camera firmware for XIAO ESP32-S3 Sense (historical Wi-Fi/SD/REST/MJPEG/OTA firmware, kept for reference; no live successor has been confirmed) |
 | [xiao-uvc](https://github.com/VisionVend/xiao-uvc) | UVC + CDC webcam firmware for XIAO ESP32-S3 (bench tooling) |
 | [ArducamBridge](https://github.com/VisionVend/ArducamBridge) | Camera-ops stack: Pi Zero 2 WH MJPEG bridge + native macOS/iOS clients + Mac vision workbench |
 | [poor-mans-motion-detection](https://github.com/VisionVend/poor-mans-motion-detection) | Frame-differencing motion detection CLI + browser GUI |
 | [visionvend-sketchfab](https://github.com/VisionVend/visionvend-sketchfab) | Sketchfab 3D model library / catalog for VisionVend products and scenes |
 | [visionvend-cooler-fleet](https://github.com/VisionVend/visionvend-cooler-fleet) | Companion media/pipeline repo for the merchandising-cooler fleet |
-| [ui-editor](https://github.com/VisionVend/ui-editor) | ARCHIVED — single-file UI editor for iOS app screen galleries; live tool moved to [VisionVend/tools/ui-editor](https://github.com/VisionVend/VisionVend/tree/main/VisionVend/tools/ui-editor) in the monorepo |
+| [ui-editor](https://github.com/VisionVend/ui-editor) | Single-file UI editor for iOS app screen galleries (historical copy); live tool moved to [VisionVend/tools/ui-editor](https://github.com/VisionVend/VisionVend/tree/main/VisionVend/tools/ui-editor) in the monorepo |
 
 ## About this profile
 
